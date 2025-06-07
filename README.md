@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> 🔧✨Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning</a></h1>
+<h1 align="center"> Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning</a></h1>
 
 
 
