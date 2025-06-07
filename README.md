@@ -5,27 +5,6 @@
 
 
 
-## Table of Contents
-
-- [Tool-Star](#🔧✨tool-star-empowering-llm-brained-multi-tool-reasoner-via-reinforcement-learning)
-  - [Overall Performance](#-overall-performance)
-- [Quick Start](#-quick-start-for-training)
-  - [Cold-Start SFT Stage](#-cold-start-sft-stage)
-    - [Environment Setup](#1-environment-setup)
-    - [Fine-Tuning Model](#2-fine-tuning-model)
-  - [Self-Critic RL Stage](#-self-critic-rl-stage)
-    - [Environment Setup](#1-environment-setup-1)
-    - [Vanilla RL Training](#2-vanilla-rl-training)
-    - [Optional: Self-Critic DPO Training](#3-self-critic-dpo-training-optional)
-  - [TIR Evaluation](#-tir-evaluation)
-    - [Environment Setup](#1-environment-setup-2)
-    - [LLM Service Deployment](#2-llm-service-deployment)
-    - [Retriever Serving Deployment](#3-retriever-serving-deployment)
-    - [Inference Your Model](#4-inference-your-model)
-    - [Calculate Metrics](#5-calculate-metrics)
-- [Citation](#-citation)
-
-
 
 
 # 🏃 Quick Start for Training
